@@ -1,4 +1,4 @@
-# byo-cloud-tutorial
+# Bring your own Cloud tutorial
 
 Navigate over to [Cloud Console](https://console.cloud.google.com/welcome?cloudshell=true) with Cloud Shell open.  
 
